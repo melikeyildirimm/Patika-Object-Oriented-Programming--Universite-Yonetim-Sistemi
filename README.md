@@ -1,1 +1,1 @@
-# Patika-Object-Oriented-Programming--niversite-Y-netim-Sistemi
+# Patika-Object-Oriented-Programming--Universite-Yonetim-Sistemi
