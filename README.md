@@ -13,3 +13,4 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur
 
 ![OOP](https://user-images.githubusercontent.com/75535815/215043059-8fea2622-f72f-4794-beee-ca53ab8b5966.png)
+ 
